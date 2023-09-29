@@ -94,7 +94,7 @@ A very simple implementation of face recognition (called 'profiler' here because
 
 1. Create a `.env` file in the root of client and server directory.
 
-2. Add the following environment variables to the `.env` file for node:
+2. Add the following environment variables to the `.env` file for node server:
 
    ```python
     MONGO_URI = your_mongodb_uri
@@ -103,7 +103,7 @@ A very simple implementation of face recognition (called 'profiler' here because
     APP_MEDIA_PATH = path_to_directory_for_file_storage
    ```
 
-3. Add the following environment variables to the `.env` file for node:
+3. Add the following environment variables to the `.env` file for python client:
 
    ```python
     APP_MEDIA_PATH = path_to_directory_for_file_storage
