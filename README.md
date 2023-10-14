@@ -1,6 +1,6 @@
 # Profiler
 
-A very simple implementation of face recognition (called 'profiler' here because I like the game 'Watch Dogs').
+A very simple implementation of face recognition (called 'profiler' here because I like the videogame 'Watch Dogs').
 
 ## Installation
 
